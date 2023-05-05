@@ -1,0 +1,100 @@
+
+
+.background-image:hover ~ .cursor{
+    transform: scale(5);
+}
+
+.background-image{
+    padding: 60px 120px;
+    margin-top: 40px;
+    color: white;
+    width: 100%;
+}
+
+.background-trans{
+    color: transparent;
+    height: 200px;
+    background-color: transparent;
+    width: 100%;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+}
+
+
+video::-webkit-media-controls-panel
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-play-button
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-volume-slider-container
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-volume-slider
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-mute-button
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-timeline
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-current-time-display
+{
+    cursor: none!important;
+}
+video::-webkit-full-page-media::-webkit-media-controls-panel
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-timeline-container
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-time-remaining-display
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-seek-back-button
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-seek-forward-button
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-fullscreen-button
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-rewind-button
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-return-to-realtime-button
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-toggle-closed-captions-button
+{
+    cursor: none!important;
+}
+video::-webkit-media-controls-overflow-button
+{
+    cursor: none!important;
+}
