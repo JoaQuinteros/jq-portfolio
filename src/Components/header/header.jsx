@@ -8,18 +8,14 @@ return (
     <div className='header'>
         <div>
             <div className="img">
-                <img src={imag} alt='i'/>
+                <img src={imag} alt='i' />
             </div>
             <div className="ImgOver"></div>  
         </div>
-        <div className="content">
-        <TypeWriter onInit={(typewriter) => {typewriter.typeString("Welcome to my portfolio").start();}}/>
-        <div className="contentText">
-            <TypeWriter onInit={(typewriter) => 
-            {typewriter.typeString("Welcome to my portfolio, I'm Joaquin Quinteros a Systems engineer pasionate about technology  with experience in different technologies, software development projects, data analytics and business intelligence.").start();}}/>
-            </div>
+        <div className="content" id="about">
+        <TypeWriter onInit={(typewriter) => {typewriter.typeString("About").start();}}/>
         </div>
-        
+        <div style={{backgroundImage:"linear-gradient(transparent, black)"}}></div>
     </div>
     
 

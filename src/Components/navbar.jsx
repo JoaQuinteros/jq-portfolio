@@ -24,23 +24,23 @@ const Navbar = () => {
             
 
               <nav className={navbar ? "navbar-scroll": "navbar"}>
-                    <a href='http://localhost:3000/' className='navbar-brand'>
-                       <span>JQ</span>.dev
+                    <a href='https://joaquinquinteros.com.ar/' className='navbar-brand'>
+                       <span>JQ</span>.com.ar
                     </a>
                     <div className={`navbar-nav-menu ${clicked ? 'active' : ''}`}>
                       <ul className='navbar-nav'>
                           <li className='nav-item' >
-                            <a href='http://localhost:3000/' className='nav-link'>
+                            <a href='https://joaquinquinteros.com.ar/#about' className='nav-link'>
                               About
                               </a>
                           </li>
                           <li className='nav-item'>
-                            <a href='http://localhost:3000/' className='nav-link'>
+                            <a href='https://joaquinquinteros.com.ar/#portfolio' className='nav-link'>
                               Portfolio
                             </a>  
                           </li>
                           <li className='nav-item'>
-                            <a href='http://localhost:3000/' className='nav-link'>
+                            <a href='https://joaquinquinteros.com.ar/#contact' className='nav-link'>
                               Contact
                             </a>  
                           </li>

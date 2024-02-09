@@ -39,7 +39,7 @@
     }
 }
 
-.trailer
+.trailer-gallery
 {
     position:fixed;
     top: 50%;
@@ -57,14 +57,14 @@
 
 }
 
-.trailer.active
+.trailer-gallery.video-active
 {
     visibility: visible;
     opacity: 1;
 }
 
 @media screen and (max-width: 480px){
-    .trailer video
+    .video-gallery
     {
         max-width: 100%;
         outline: none;
@@ -75,18 +75,18 @@
 
 
 @media screen and (min-width: 991px){
-.trailer video
+.video-gallery
 {
-    max-width: 100%;
+    max-width: 900px;
     outline: none;
     cursor: pointer;
 }
 }
 
 @media screen and (max-width: 991px){
-    .trailer video
+    .video-gallery
     {
-        max-width: 450px;
+        max-width: 70%;
         outline: none;
         cursor: pointer;
     }
@@ -100,3 +100,4 @@
     cursor: pointer;
     max-width: 32px;
 }
+

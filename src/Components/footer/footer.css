@@ -11,9 +11,25 @@
     justify-content: center;    
 }
 
+@media(max-width: 480px)
+{
+    .footer-row {
+        font-size: 40px;
+        height: 120px;
+    }
+}
+
+@media(max-width: 991px)
+{
+    .footer-row {
+        height: 120px;
+        font-size: 50px;
+    }
+}
+
 .iconTool
 {
-    color: #111;
+    color: #262626;;
     transition: 1s;
     padding: 0 5px;
     user-select: none;

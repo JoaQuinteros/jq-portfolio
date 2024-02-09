@@ -1,0 +1,250 @@
+2024-02-06 12:41:21,413 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-06 12:41:21,413 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-06 12:41:21,413 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 12:41:22,882 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 12:41:22,882 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 12:43:22,432 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 12:43:22,464 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 12:43:25,068 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 12:43:25,068 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 12:43:44,841 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 12:43:44,863 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 12:43:46,024 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 12:43:46,024 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:12:37,316 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 13:12:37,412 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:13:38,074 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-06 13:13:38,074 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-06 13:13:38,083 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:13:40,133 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:13:40,143 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:17:31,616 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-06 13:17:31,616 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-06 13:17:31,616 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:17:33,753 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:17:33,757 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:21:54,508 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 13:21:54,593 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:21:56,516 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:21:56,526 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:23:25,352 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 13:23:25,402 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:23:27,513 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:23:27,522 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:25:15,599 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 13:25:15,643 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:25:17,293 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:25:17,297 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:26:01,428 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-06 13:26:01,428 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-06 13:26:01,438 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:26:03,230 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:26:03,238 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:26:23,930 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 13:26:23,968 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:26:25,230 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:26:25,236 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:55:25,660 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 13:55:25,718 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:55:28,248 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:55:28,254 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:55:39,454 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 13:55:39,489 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:55:40,752 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:55:40,760 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 13:59:43,163 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 13:59:43,194 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 13:59:44,650 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 13:59:44,660 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 14:16:38,771 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 14:16:38,853 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 14:16:41,863 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 14:16:41,871 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 14:43:17,737 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 14:43:17,772 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 14:43:19,067 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 14:43:19,072 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 14:44:34,843 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 14:44:34,877 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 14:51:19,997 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-06 14:51:19,997 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-06 14:51:19,999 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 14:51:21,064 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 14:51:21,068 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 14:52:06,717 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 14:52:06,735 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 14:52:07,885 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 14:52:07,895 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 15:20:55,607 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 15:20:55,654 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 15:20:58,331 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 15:20:58,333 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-06 16:50:14,668 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-06 16:50:14,755 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 16:52:09,008 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-06 16:52:09,008 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-06 16:52:09,008 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-06 16:52:10,204 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-06 16:52:10,208 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:31:11,461 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-07 09:31:11,461 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-07 09:31:11,461 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:31:12,528 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:31:12,528 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:32:49,905 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-07 09:32:49,905 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-07 09:32:49,906 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:32:50,958 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:32:50,963 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:34:16,062 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:34:16,093 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:34:17,142 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:34:17,154 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:35:37,121 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:35:37,152 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:36:12,975 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-07 09:36:12,975 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-07 09:36:12,975 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:36:14,539 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:36:14,539 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:40:55,712 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-07 09:40:55,712 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-07 09:40:55,712 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:40:57,088 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:40:57,088 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:41:08,678 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:41:08,736 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:41:10,021 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:41:10,025 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:41:37,908 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:41:37,939 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:42:13,662 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-07 09:42:13,663 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-07 09:42:13,666 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:42:15,107 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:42:15,112 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:43:07,584 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:43:07,617 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:43:08,855 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:43:08,861 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:44:03,036 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:44:03,068 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:44:04,435 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:44:04,439 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:44:38,019 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:44:38,049 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:44:39,532 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:44:39,538 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:45:26,506 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:45:26,540 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:45:27,804 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:45:27,809 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:45:51,812 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:45:51,844 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:45:53,156 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:45:53,159 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:46:18,514 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:46:18,548 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:46:19,602 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:46:19,612 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 09:50:02,109 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 09:50:02,140 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 09:50:03,520 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 09:50:03,524 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 13:57:10,603 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-07 13:57:10,603 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-07 13:57:10,603 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 13:57:11,710 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 13:57:11,740 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 13:58:09,318 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 13:58:09,357 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 13:58:10,518 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 13:58:10,521 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 13:58:23,418 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR.py', reloading
+2024-02-07 13:58:23,443 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 13:58:24,582 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 13:58:24,582 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 13:59:03,443 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2024-02-07 13:59:03,443 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-02-07 13:59:03,445 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 13:59:04,728 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 13:59:04,728 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:04:54,032 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:04:54,063 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:04:55,389 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:04:55,393 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:05:17,677 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:05:17,708 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:05:18,847 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:05:18,852 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:05:39,716 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:05:39,741 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:05:41,128 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:05:41,128 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:05:43,195 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:05:43,228 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:05:44,328 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:05:44,332 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:06:32,603 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:06:32,628 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:06:33,811 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:06:33,816 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:07:37,830 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:07:37,861 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:07:38,961 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:07:38,966 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:07:43,822 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:07:43,851 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:07:44,966 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:07:44,966 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:08:13,958 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:08:13,984 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:08:15,055 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:08:15,055 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:08:18,479 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:08:18,504 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:08:19,592 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:08:19,592 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952
+2024-02-07 14:31:50,344 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\joa_0\\Documents\\Proyectos Django\\Naranja x\\QR2.py', reloading
+2024-02-07 14:31:50,395 INFO werkzeug MainThread :  * Restarting with stat
+2024-02-07 14:31:53,214 WARNING werkzeug MainThread :  * Debugger is active!
+2024-02-07 14:31:53,214 INFO werkzeug MainThread :  * Debugger PIN: 855-167-952

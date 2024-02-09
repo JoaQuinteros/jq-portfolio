@@ -4,7 +4,7 @@
     to { border-color: white; }
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 990px){
 
     .navbar{
         display: flex;
@@ -22,7 +22,7 @@
 }
 
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 990px){
 .navbar{
     padding: 80px;
     display: flex;
@@ -39,7 +39,7 @@
 }
 }
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 990px){
 .navbar-brand{
  font-size: 3em;
  color: white !important;
@@ -48,7 +48,7 @@
 }
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 990px){
     .navbar-brand{
      font-size: 1em;
      color: white !important;
@@ -64,7 +64,7 @@
 }
 
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 990px){
     .navbar-nav{
         padding: 0px 60px;
         margin-top: 40px;
@@ -84,7 +84,7 @@
     font-size: 2.5rem;        
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 990px){
 .navbar-nav-menu{    
         display: none;
         
@@ -112,7 +112,7 @@
     position: relative;
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 990px){
 
     .navbar-scroll{
         display: flex;
@@ -130,7 +130,7 @@
 }
 
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 990px){
 .navbar-scroll{
     padding: 80px;
     display: flex;
@@ -147,26 +147,27 @@
 }
 }
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 990px){
 .burger{
     position: fixed;
     display: none;
 }
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 990px){
     .burger{
         cursor: pointer;
+        padding-right: 50px;
     }
     }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 990px){
 .navbar-scroll .active
 {
     position: absolute;
     width: 100%;
     height: 270px;
-    display: block;
+    display: block; 
     margin-left: auto;
     margin-right: auto;
     top: 90px;
@@ -178,7 +179,7 @@
 }
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 990px){
 .navbar .active
     {
         position: absolute;
@@ -195,3 +196,9 @@
     
     }
     }
+
+@media(max-width:250px){
+    .navbar-brand{
+        font-size: 0.6em;
+    }
+}
